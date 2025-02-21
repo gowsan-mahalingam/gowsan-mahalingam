@@ -54,6 +54,3 @@ I am a passionate and curious **Engineering Manager** and **Senior FullStack Dev
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gowsan-mahalingam-59335365/)
 
----
-
-Feel free to fork this template and customize it for your profile! 🚀
