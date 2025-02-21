@@ -50,16 +50,9 @@ I am a passionate and curious **Engineering Manager** and **Senior FullStack Dev
 - 🎓 **Master's Degree in Computer Science** – SUPINFO (2012 – 2015)
 - 🎓 **BTS in IT Management** – Lycée Franklin Roosevelt (2010 – 2012)
 
-## 📖 What I’m Working On
-
-- 🚧 **Freelance projects** in Symfony 7 and TypeScript
-- 💡 Building **Nursery Planning**, a web app for daycare scheduling using TDD and hexagonal architecture
-- 🌱 Expanding skills in **Python** and strengthening expertise in **TypeScript**
-
 ## 📫 Let’s Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 💻 [GitHub](https://github.com/your-username)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/gowsan-mahalingam-59335365/))
 
 ---
 
